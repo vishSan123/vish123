@@ -1,4 +1,4 @@
-👋 Hi, I’m @vishSan123
+👋 Hi, I’m vishmi
 
 - 👀 I’m interested in Web Development, AI, Open Source
 - 🌱 I’m currently learning Android Development, Python
